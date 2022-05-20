@@ -18,7 +18,7 @@
         <serenity.cucumber.version>1.9.4</serenity.cucumber.version>
         <rest-assured>2.9.0</rest-assured>
         <mongo-java-driver>3.6.3</mongo-java-driver>
-        <gson>2.8.2</gson>
+        <gson>2.8.9</gson>
     </properties>
 
     <dependencies>
